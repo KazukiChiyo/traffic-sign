@@ -105,3 +105,7 @@ venv.bak/
 
 # pickle data files
 *.p
+
+# tensorflow metadata
+model*
+checkpoint
